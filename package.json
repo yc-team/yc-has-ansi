@@ -1,0 +1,25 @@
+{
+  "name": "yc-has-ansi",
+  "version": "0.0.1",
+  "description": "check if source has ANSI in yc tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhangyaochun/yc-has-ansi.git"
+  },
+  "keywords": [
+    "yc",
+    "ansi",
+    "tool"
+  ],
+  "dependencies": {
+  },
+  "author": "zhangyaochun",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/zhangyaochun/yc-has-ansi/issues"
+  }
+}
